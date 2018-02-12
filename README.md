@@ -1,2 +1,5 @@
-# Y2-Adonis
-The Grio
+# Y1-Adonis
+
+Group project
+
+By Gaya, Jawzel, Tamer, Matvey
